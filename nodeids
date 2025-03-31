@@ -1,0 +1,8 @@
+[
+  "tests/test_integration.py::test_file_upload",
+  "tests/test_integration.py::test_homepage",
+  "tests/test_integration.py::test_invalid_route",
+  "tests/test_integration.py::test_result_page",
+  "tests/test_model.py::test_model_load",
+  "tests/test_model.py::test_model_prediction"
+]

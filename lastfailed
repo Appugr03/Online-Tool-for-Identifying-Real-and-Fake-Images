@@ -1,0 +1,4 @@
+{
+  "tests/test_integration.py::test_homepage": true,
+  "tests/test_integration.py::test_file_upload": true
+}
