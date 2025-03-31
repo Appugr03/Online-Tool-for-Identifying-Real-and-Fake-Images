@@ -1,0 +1,5 @@
+Python 3.8+
+PyTorch for deep learning model implementation
+OpenCV for image processing
+NumPy for numerical computations
+Flask for web deployment
